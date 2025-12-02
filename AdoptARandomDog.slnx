@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Dog/Dogs.API.csproj" />
+  <Project Path="Dogs.Models/Dogs.Models.csproj" />
+</Solution>

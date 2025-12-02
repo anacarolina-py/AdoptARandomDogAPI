@@ -1,0 +1,6 @@
+@AdoptARandomDog_HostAddress = http://localhost:5041
+
+GET {{AdoptARandomDog_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
